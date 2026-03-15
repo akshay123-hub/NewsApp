@@ -11,7 +11,9 @@ import SwiftUI
 struct NewsAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NewsArticleView()
         }
     }
 }
+
+//API TokenrNpHYfjJDlR9dLxmMsEveMHrpfBnrOaxW9NODA0M
